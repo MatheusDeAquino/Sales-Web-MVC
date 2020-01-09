@@ -28,3 +28,4 @@ C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\Sal
 C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\SalesWebMVC\obj\Debug\netcoreapp2.2\SalesWebMVC.dll
 C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\SalesWebMVC\obj\Debug\netcoreapp2.2\SalesWebMVC.pdb
 C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\SalesWebMVC\obj\Debug\netcoreapp2.2\SalesWebMVC.csproj.CopyComplete
+C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
