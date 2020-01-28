@@ -35,3 +35,4 @@ C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\Sal
 C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
 C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Index.g.cshtml.cs
 C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Create.g.cshtml.cs
+C:\Matheus\Estudo do Estagio\Sistema web ASP.NET CORE MVC e Entity Framework\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Delete.g.cshtml.cs
